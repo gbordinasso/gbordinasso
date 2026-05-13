@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gustavo Bordinasso
 
-💻 Desenvolvedor em formação, cursando Análise e Desenvolvimento de Sistemas  
-🚀 Focado no desenvolvimento de aplicações e construção de soluções eficientes  
+Desenvolvedor em formação, cursando Análise e Desenvolvimento de Sistemas  
+Focado no desenvolvimento de aplicações e construção de soluções eficientes  
 
 ---
 
@@ -33,4 +33,4 @@ Busco sempre desenvolver soluções eficientes e bem estruturadas, com o objetiv
 
 ---
 
-⭐ Sempre buscando evoluir como desenvolvedor e construir soluções cada vez melhores.
+Sempre buscando evoluir como desenvolvedor e construir soluções cada vez melhores.
