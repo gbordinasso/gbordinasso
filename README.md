@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou o Gustavo Bordinasso
+# Olá, eu sou o Gustavo Bordinasso
 
 Desenvolvedor em formação, cursando Análise e Desenvolvimento de Sistemas  
 Focado no desenvolvimento de aplicações e construção de soluções eficientes  
 
 ---
 
-## 👤 Sobre mim
+## Sobre mim
 
 Sou o Gustavo Bordinasso, desenvolvedor em formação com foco no desenvolvimento de aplicações.
 
@@ -15,7 +15,7 @@ Busco sempre desenvolver soluções eficientes e bem estruturadas, com o objetiv
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,7 +30,7 @@ Busco sempre desenvolver soluções eficientes e bem estruturadas, com o objetiv
 
 ---
 
-## 📫 Contato
+## Contato
 
 🔗 LinkedIn: https://www.linkedin.com/in/gustavobordinasso/
 
