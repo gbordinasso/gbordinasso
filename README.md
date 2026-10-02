@@ -1,12 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+World!;Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Bordinasso.;Desenvolvedor+em+forma%C3%A7%C3%A3o.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+World!;Meu+nome+%C3%A9+Gustavo+Bordinasso.;Desenvolvedor+em+forma%C3%A7%C3%A3o.)](https://git.io/typing-svg)
 
 </div>
 
 ---
-
-## Sobre mim
 
 Desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. Gosto de transformar o que aprendo em projetos e estou sempre buscando evoluir como desenvolvedor.
 
@@ -64,4 +62,4 @@ Desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistema
 
 [LinkedIn](https://www.linkedin.com/in/gustavobordinasso/)
 
-E-mail: gustavobordinasso11@gmail.com
+[E-mail](gustavobordinasso11@gmail.com)
