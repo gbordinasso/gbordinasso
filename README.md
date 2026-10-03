@@ -7,14 +7,9 @@
 <br>
 
 <p align="center">
-Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. 
-Gosto de aprender na prática, transformar conhecimentos em projetos e entender como 
-as diferentes partes de uma aplicação se conectam.
-
-Tenho explorado o desenvolvimento front-end e back-end, trabalhando com diferentes 
-linguagens, frameworks e bancos de dados. Estou em constante aprendizado e busco 
-evoluir a cada projeto, sempre procurando melhorar minhas habilidades e construir 
-soluções cada vez melhores.
+  Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas.
+  Gosto de aprender na prática, transformar conhecimentos em projetos e entender como
+  as diferentes partes de uma aplicação se conectam.
 </p>
 
 <br>
